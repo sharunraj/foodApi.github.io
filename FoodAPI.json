@@ -1,0 +1,182 @@
+[
+  {
+    "foodId": "1",
+    "foodName": "Apple",
+    "foodFat": 0,
+    "foodProtein": 0,
+    "foodSugar": 19,
+    "foodGrams": 100,
+    "avgCalories": 52
+  },
+  {
+    "foodId": "2",
+    "foodName": "Banana",
+    "foodFat": 0,
+    "foodProtein": 1,
+    "foodSugar": 23,
+    "foodGrams": 100,
+    "avgCalories": 89
+  },
+  {
+    "foodId": "3",
+    "foodName": "Chicken Breast",
+    "foodFat": 3,
+    "foodProtein": 31,
+    "foodSugar": 0,
+    "foodGrams": 100,
+    "avgCalories": 165
+  },
+  {
+    "foodId": "4",
+    "foodName": "Broccoli",
+    "foodFat": 0,
+    "foodProtein": 3,
+    "foodSugar": 2,
+    "foodGrams": 100,
+    "avgCalories": 55
+  },
+  {
+    "foodId": "5",
+    "foodName": "Egg",
+    "foodFat": 5,
+    "foodProtein": 6,
+    "foodSugar": 0,
+    "foodGrams": 50,
+    "avgCalories": 68
+  },
+  {
+    "foodId": "6",
+    "foodName": "Rice",
+    "foodFat": 0,
+    "foodProtein": 2,
+    "foodSugar": 0,
+    "foodGrams": 100,
+    "avgCalories": 130
+  },
+  {
+    "foodId": "7",
+    "foodName": "Avocado",
+    "foodFat": 15,
+    "foodProtein": 2,
+    "foodSugar": 0,
+    "foodGrams": 100,
+    "avgCalories": 160
+  },
+  {
+    "foodId": "8",
+    "foodName": "Salmon",
+    "foodFat": 13,
+    "foodProtein": 20,
+    "foodSugar": 0,
+    "foodGrams": 100,
+    "avgCalories": 208
+  },
+  {
+    "foodId": "9",
+    "foodName": "Carrot",
+    "foodFat": 0,
+    "foodProtein": 1,
+    "foodSugar": 5,
+    "foodGrams": 100,
+    "avgCalories": 41
+  },
+  {
+    "foodId": "10",
+    "foodName": "Spinach",
+    "foodFat": 0,
+    "foodProtein": 3,
+    "foodSugar": 0,
+    "foodGrams": 100,
+    "avgCalories": 23
+  },
+  {
+    "foodId": "11",
+    "foodName": "Almonds",
+    "foodFat": 49,
+    "foodProtein": 21,
+    "foodSugar": 4,
+    "foodGrams": 100,
+    "avgCalories": 579
+  },
+  {
+    "foodId": "12",
+    "foodName": "Yogurt",
+    "foodFat": 5,
+    "foodProtein": 10,
+    "foodSugar": 12,
+    "foodGrams": 100,
+    "avgCalories": 59
+  },
+  {
+    "foodId": "13",
+    "foodName": "Tomato",
+    "foodFat": 0,
+    "foodProtein": 1,
+    "foodSugar": 3,
+    "foodGrams": 100,
+    "avgCalories": 18
+  },
+  {
+    "foodId": "14",
+    "foodName": "Orange",
+    "foodFat": 0,
+    "foodProtein": 1,
+    "foodSugar": 12,
+    "foodGrams": 100,
+    "avgCalories": 47
+  },
+  {
+    "foodId": "15",
+    "foodName": "Sweet Potato",
+    "foodFat": 0,
+    "foodProtein": 2,
+    "foodSugar": 4,
+    "foodGrams": 100,
+    "avgCalories": 86
+  },
+  {
+    "foodId": "16",
+    "foodName": "Beef Steak",
+    "foodFat": 9,
+    "foodProtein": 31,
+    "foodSugar": 0,
+    "foodGrams": 100,
+    "avgCalories": 250
+  },
+  {
+    "foodId": "17",
+    "foodName": "Cucumber",
+    "foodFat": 0,
+    "foodProtein": 1,
+    "foodSugar": 2,
+    "foodGrams": 100,
+    "avgCalories": 16
+  },
+  {
+    "foodId": "18",
+    "foodName": "Oats",
+    "foodFat": 7,
+    "foodProtein": 17,
+    "foodSugar": 1,
+    "foodGrams": 100,
+    "avgCalories": 389
+  },
+  {
+    "foodId": "19",
+    "foodName": "Potato",
+    "foodFat": 0,
+    "foodProtein": 2,
+    "foodSugar": 2,
+    "foodGrams": 100,
+    "avgCalories": 77
+  },
+  {
+    "foodId": "20",
+    "foodName": "Cheese",
+    "foodFat": 33,
+    "foodProtein": 25,
+    "foodSugar": 1,
+    "foodGrams": 100,
+    "avgCalories": 402
+  }
+]
